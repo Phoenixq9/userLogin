@@ -92,19 +92,5 @@
         <TableRow />
     </TableLayout>
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="256dp"
-        android:layout_height="31dp"
-        android:layout_marginTop="224dp"
-        android:gravity="center"
-        android:text="USER İNFORMATİON"
-        android:textSize="24dp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.477"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
